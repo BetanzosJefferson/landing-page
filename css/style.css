@@ -36,7 +36,7 @@ a{
     font-weight: 700;
 }
 .hero{
-    background-image: url(/img/cover.jpg);
+    background-image: url(img/cover.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -111,7 +111,7 @@ section{
     top: 0;
 }
 .col-img{
-    background-image: url(/img/cover2.jpg);
+    background-image: url(img/cover2.jpg);
     background-position: center;
     background-size: cover;
     min-height: 500px;
